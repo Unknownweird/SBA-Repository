@@ -1,0 +1,25 @@
+Header{
+    font-size: 67px;
+    text-align: center;
+    color: midnightblue;
+}
+
+.Button1{
+    display: inline-block;
+     padding: 10px 20px;
+     background-color: rgb(140, 119, 96); 
+     color: beige;             
+     text-decoration: none;     
+     border-radius: 5px;        
+     font-weight: bold;
+     margin: 2px;
+     align-items: center;
+}
+
+.Button1:visited{
+    color: beige;
+}
+
+.Button1:hover{
+    background-color: burlywood;
+}
